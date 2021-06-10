@@ -23,9 +23,8 @@ We found that the classic models achieved a 94% Balanced Accuracy (BA) in the or
 
 ## Repo contents
 
-* .biblio-masters.R : This script loads the data, runs the analyses, and generates and saves the plots used in the paper
-* ./data/: this folder contains the datasets used in the analyses
-* ./www/: this folder contains some decorative images
+* .Tackling_spam_attacks_BERT.ipynb: A Jupyter NB that sets up the testbed, loads the data, configure the models, runs the experiments, and generates and saves the results reported in the paper
+* ./data/spam/: this folder contains the dataset, the thesaurus, and files storing the results
 
 --- END OF README ---
 
